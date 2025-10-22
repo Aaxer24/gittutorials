@@ -5,16 +5,7 @@ The **Health Risk Profiler** is an AI-powered service that analyzes lifestyle su
 
 ---
 
-## Features
-- Accepts **text input** and **image input** (via OCR)
-- Extracts structured answers from survey forms
-- Converts answers into **risk factors**
-- Computes **risk level** and **score**
-- Generates **actionable recommendations**
-- Implements **guardrails** for incomplete or missing fields
-- Outputs **structured JSON** for easy integration
 
----
 
 ## Project Structure
 ```
